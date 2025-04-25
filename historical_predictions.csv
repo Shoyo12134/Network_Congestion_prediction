@@ -1,0 +1,101 @@
+Binary Congestion,Continuous Congestion Level,Routing Decision,Router,Timestamp,Anomaly
+0,12.306887396930863,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,60.35346759006471,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,27.000965055974497,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,16.944328983437902,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,15.480686412042553,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,23.53299388392032,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+1,85.57336038284959,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,16.293585522533522,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,83.11667888076646,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+0,55.29053854369996,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,25.695664264640712,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,38.36781939902719,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,22.69204599222895,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,60.75943104049662,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,5.678093391819062,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,0.20894578322642787,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,56.87333525105488,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,12.108564287628196,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,0.5401873477399631,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,30.823324143239656,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,2.173746338574805,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+1,81.80959979142555,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,6.682831847831797,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,65.19913220870409,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+0,47.843331339673476,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,60.77368261183104,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,22.940624803492685,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,14.386678138230065,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,99.72216455890627,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,Yes
+1,80.5127029853132,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+1,83.98374589991442,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+0,13.924725372442413,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,0.0,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,20.431573126719258,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,53.86994029958327,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,30.30927883717254,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,85.29546358261622,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+0,24.89539458803882,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,99.31793333909948,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,Yes
+0,42.415681361245625,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,85.4078217716705,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,13.531040334629107,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,45.24770603508003,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,73.14266929069447,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,10.470184789121504,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,13.50567609602938,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,94.72396263510431,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,Yes
+0,73.94329705780638,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+0,3.055448503859366,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,29.543224354512553,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,36.447130082440324,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,68.32058673754321,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,16.034195895561663,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+1,10.926744119909833,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,4.584484144188421,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,43.392747624911394,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,65.24326105241231,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,4.4665167575505835,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+1,100.0,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,Yes
+1,35.288601989759435,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+0,27.258084906234373,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,10.617552739834572,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,13.66605607213758,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,83.2366931497088,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+1,63.81428257586294,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+0,52.56260499298817,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,66.6477057246582,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+0,46.61592964980185,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,71.93480307261191,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,3.8249803126461757,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,50.77024355998121,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,10.234091763622427,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,6.253003497398721,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,30.866860252864072,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+0,7.486350374894728,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,10.81530273606568,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,29.84269508797944,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,95.11614827063804,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,Yes
+1,13.057866213766228,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+1,2.69392966892255,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+0,77.35748927969587,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+1,81.05087668404757,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+1,33.06584568984671,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,No
+0,37.7273726201142,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,73.51543226769792,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,0.28283505093855177,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,95.81630028017025,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,Yes
+1,79.55732717652323,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,23.418643251286127,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,8.717967033663637,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,No
+1,92.2715746496434,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,Yes
+0,49.79582946773539,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,47.732799436787424,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+0,62.26624580681896,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,57.97933614729821,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+1,91.53181848249764,Route to Backup Server,Backup Router C,2025-02-06 13:50:11,Yes
+1,91.83538113489148,Route to Backup Server,Backup Router A,2025-02-06 13:50:11,Yes
+1,88.91816982928252,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
+0,67.46661124591766,Route via Primary Server,Primary Router,2025-02-06 13:50:11,No
+1,89.52204489803425,Route to Backup Server,Backup Router B,2025-02-06 13:50:11,No
